@@ -84,7 +84,7 @@ test-embeddings/
 
 ```bash
 # Clona il progetto
-git clone <repo-url>
+git clone https://github.com/FastalGroup/test-embeddings.git
 cd test-embeddings
 
 # Installa dipendenze
